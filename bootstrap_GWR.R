@@ -1,3 +1,5 @@
+# This code was created with the help of an LLM
+
 # Load necessary libraries
 library(sp)
 library(spgwr)
